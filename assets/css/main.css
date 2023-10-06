@@ -1,0 +1,39 @@
+.kv1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: relative;
+    left: 70px;
+    top: 120px;
+    z-index: 1;
+}
+
+.kv2{
+    width: 210px;
+    height: 180px;
+    position: relative;
+    background-color: red;
+    left: 60px;
+    top: 60px;
+    z-index: 0;
+}
+
+.kv3{
+    width: 210px;
+    height: 180px;
+    position: relative;
+    background-color: green;
+    left: 120px;
+    top: 40px;
+    z-index: 0;
+}
+
+.kv4{
+    width: 210px;
+    height: 180px;
+    position: relative;
+    background-color: yellow;
+    left: 120px;
+    top: 4px;
+    z-index: 0;
+}
